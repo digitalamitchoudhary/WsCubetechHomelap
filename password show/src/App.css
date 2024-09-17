@@ -1,0 +1,14 @@
+.form-control{
+  
+  margin: auto;
+  margin-top:20px ;
+}
+.mydm {
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+  margin-top:20px ;
+  border: 2px solid red;
+}
+.mydm input{
+  border: 2px solid rgb(0, 0, 0);}
